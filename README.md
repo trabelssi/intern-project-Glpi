@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="public/glpi-logo.png" width="120" alt="Sancella Logo"></p>
 
 <p align="center">
@@ -64,3 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# intern-project-Glpi
+>>>>>>> 4d1b709dd7200ce9b2c54a9a14a34ac1532e9bc2
